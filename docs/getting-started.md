@@ -22,8 +22,8 @@ The icons used as the Favicon, Sidebar Logo and Main Screen Logo were made by <a
 **And finally, this fine gridsome theme.**
 
 **Docs**
-[Docs]https://jamdocs.netlify.app//()
+https://jamdocs.netlify.app/
 
 **Github Repository**
-[REPOSITORY]https://github.com/samuelhorn/jamdocs/()
+https://github.com/samuelhorn/jamdocs/
 
