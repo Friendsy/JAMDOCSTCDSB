@@ -4,13 +4,13 @@
       "section": "Introduction",
       "topics": [
         {
-          "title": "Getting started",
-          "slug": "getting-started"
+          "title": "Information",
+          "slug": "information"
         }
       ]
     },
     {
-      "section": "Setup",
+      "section": "Documentation",
       "topics": [
         {
           "title": "Theme configuration",
