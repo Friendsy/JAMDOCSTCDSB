@@ -12,7 +12,18 @@ cse.ddns.net is a website.
 
 Something tells me I need to put this...
 
-**The icons used as the Favicon, Sidebar Logo, and Main Screen logo's sources are found below.**
+**Favicon, and Logos**
+The icons used as the Favicon, Sidebar Logo and Main Screen Logo were made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
 
-Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
+**Interface Icons**
+
+[Feather Icons]https://feathericons.com/()
+
+**And finally, this fine gridsome theme.**
+
+**Docs**
+[Docs]https://jamdocs.netlify.app//()
+
+**Github Repository**
+[REPOSITORY]https://github.com/samuelhorn/jamdocs/()
 
