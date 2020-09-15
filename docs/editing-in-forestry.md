@@ -1,7 +1,7 @@
 ---
-title: Forestry CMS
+title: Topics
 date: 2020-01-02
-slug: forestry-cms
+slug: topics
 
 ---
 ## Import starter
