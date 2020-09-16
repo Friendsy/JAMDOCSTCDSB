@@ -4,39 +4,28 @@ date: 2020-01-02
 slug: topics
 
 ---
-## Import starter
+## TOPIC 1
+TOPIC 1
+What does being a Catholic Learner mean to you?
 
-[![](https://assets.forestry.io/import-to-forestryK.svg)](https://app.forestry.io/quick-start?repo=samuelhorn/jamdocs&engine=other&preview=https://res.cloudinary.com/forestry-io/image/fetch/w_400,h_300,c_fill,f_jpg/https://forestry.io/img/starters/jamdocs.png "Import to Forestry")
+What I think being a Catholic Learner means is to,
 
-This project has been pre-configured to work with Forestry, just import your repository ✨
-Any changes you make will be commited back to the repo,
+* Be faithful
+* Be responsible
+* Be respectful
 
-## Start Instant Previews
+**Be Faithful**
+I think having Faith in God is very important when it comes to being a Catholic Learner. Faith allows us to have strength and to be closer to God.
 
-Start the preview environement if you want to be able to preview your website.
+**Be Responsible**
+I think being responsible is also very important to being a Catholic Learner.
+Responsibility allows us to be more truthful as we take responsibility for our actions.
 
-Go to **Settings / Preview** and click on the **Start** button.
+**Be Respectful**
+I think being respectful is another important act to be a Catholic Learner.
+Being respectful means to be polite, kind, and thoughtful.
 
-It will clone your site on Forestry preview environment, install the project dependencies, and launch your npm script to launch `gridsome develop`
 
-![](/forestry-instant-previews.png)
+## TOPIC 2
 
-Once the server is started, you will be able to **click on the preview icon** when you're editing a document (even without saving your changes).
 
-## Adding pages
-
-Go in the **Docs** section and click **Create** to add a new page to your documentation. The default front matter template contains `title`, `date` and `slug`fields. You can add new ones by editing the front matter template.
-
-## Front matter
-
-You can edit the **Documention Page** front matter template by cliking on **Front Matter** in the sidebar. From here you can add new fields to enhance the current template.
-
-![](/forestry-front-matter-template.png)
-
-## Managing sidebar topics
-
-Click on the **Menu** section in Forestry to add a new section or topics from the user interface. Forestry will write the changes to the JSON file. 🎉
-
-![](/forestry-sidebar-settings.png)
-
-See [Forestry documentation](https://forestry.io/docs) if you want to know more.
