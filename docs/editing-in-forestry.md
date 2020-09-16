@@ -36,4 +36,19 @@ Brainstorm ideas for a social agreement that can be established at the beginning
 
 **THIS TOPIC IS YET TO BE COMPLETED AS OF 15/09/2020 AT 8:44 PM.**
 
+## TOPIC 3
+
+**Wednesday September 16 2020**
+
+
+With a focus on community, please complete the following:
+
+Using the Show What You Know Student Choice Board below, develop an original prayer that you would be willing to share with your teachers and peers. 
+
+The student prayers created will be celebrated together at the start of and end of classes beginning next week. 
+
+Your prayer should speak to what it means to be a Catholic learner who embraces his/her potential while understanding the importance of being a culturally responsive learner and responsible citizen who gives witness to Catholic social teaching by promoting peace, justice and the sacredness of human life.
+
+
+**ALSO NOT FINISHED.**
 
