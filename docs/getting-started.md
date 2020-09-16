@@ -6,7 +6,7 @@ slug: information
 
 ## Intro
 
-cse.ddns.net is a website. 
+cse.ddns.net is a website containing stuff.
 
 ## Attributions
 
