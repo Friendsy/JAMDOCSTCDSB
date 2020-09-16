@@ -29,9 +29,11 @@ https://github.com/samuelhorn/jamdocs/
 
 ## Licenses
 
+
+### Flaticon, Copyright
+
 (c) 2010-2020 Freepik Company S.L. All rights reserved
 
-### Flaticon License, Copyright
 License for Flaticon
 
 **Flaticon License**
@@ -52,7 +54,7 @@ To make modifications and derived works
 
 
 
-### MIT
+### FeatherIcons, MIT
 License for FeatherIcons
 
 **The MIT License (MIT)**
@@ -79,7 +81,7 @@ SOFTWARE.
 
 
 
-### MIT
+## JamDocs, MIT
 License for JamDocs
 
 
