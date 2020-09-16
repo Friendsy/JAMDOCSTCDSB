@@ -12,9 +12,9 @@ What does being a Catholic Learner mean to you?
 
 What I think being a Catholic Learner means is to,
 
-* **Be faithful
-* **Be responsible
-* **Be respectful
+* **Be faithful**
+* **Be responsible**
+* **Be respectful**
 
 **Be Faithful**
 I think having Faith in God is very important when it comes to being a Catholic Learner. Faith allows us to have strength and to be closer to God.
