@@ -6,7 +6,39 @@ slug: information
 
 ## Intro
 
-cse.ddns.net is a website containing stuff.
+**If there are any grammar or language errors, please tell me.**
+
+I have created this website because the TCDSBVS Student Orientation Experience Daily Topics has this 'Show What You Know: Student Choice Board,' which has an option for **WEBSITE DESIGN,** and since I can make a "website," might as well make a website.
+
+**Why is the name cse.ddns.net?**
+
+I don't know. I just wanted a short name.
+**If your wondering what "cse" stands for, it means Catholic School Education. I just abbreviated it.**
+**I could have put it as tcdsb.ddns.net, but this is not an official board website, nor does it represent the board.**
+this is where i put the answers to the topic.
+
+**Why am I here?**
+I don't know, why are you here?
+
+**But that wasn't an answer to my question?**
+Why are you here?
+
+**Why is there a Q&A here?**
+I just put it.
+
+**Difference between 'http' and 'https'?**
+'http' stands for Hypertext Transfer Protocol.
+'https' stands for Hypertext Transfer Protocol **Secure.**
+Since most browsers mark http websites as **Not Secure,** I used Netlify for this website since they provide free SSL Certificates with your website and a custom domain. This website is proudly using **https.**
+
+**Why can't I access this website on some of my other devices or on another WIFI network?**
+This is mainly due to DNS Propagation, since it takes time to update DNS.
+If you want to view this website faster, you can flush your DNS Cache.
+
+**What is DNS?**
+DNS transalates domain names,(for example, google.ca) to IP addresses so browsers can load internet resources. Think of it as the Phonebook of the internet.
+
+**This is the end of the Q&A, haha.**
 
 ## Attributions
 
@@ -17,7 +49,7 @@ The icons used as the Favicon, Sidebar Logo and Main Screen Logo were made by <a
 
 **Interface Icons**
 
-[Feather Icons]https://feathericons.com/()
+[Feather Icons](ttps://feathericons.com/)
 
 **And finally, this fine gridsome theme.**
 
