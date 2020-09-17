@@ -14,7 +14,7 @@ I have created this website because the TCDSBVS Student Orientation Experience D
 
 I don't know. I just wanted a short name.
 **If your wondering what "cse" stands for, it means Catholic School Education. I just abbreviated it.**
-**I could have put it as tcdsb.ddns.net, but this is not an official board website, nor does it represent the board.**
+**I could have put it as tcdsb.ddns.net, but this is not an official board website, nor does it represent the board. (although i do go to tcdsb schools, or is it tcdsbvs?) **
 this is where i put the answers to the topic.
 
 **Why am I here?**
@@ -37,6 +37,12 @@ If you want to view this website faster, you can flush your DNS Cache.
 
 **What is DNS?**
 DNS transalates domain names,(for example, google.ca) to IP addresses so browsers can load internet resources. Think of it as the Phonebook of the internet.
+
+**What is TCDSB?**
+How did you find this website?
+
+**Am I tired and can't focus?**
+Yes! 
 
 **This is the end of the Q&A, haha.**
 
