@@ -13,6 +13,7 @@ These are topics assigned and their anwsers for the TCDSBVS Orientation Week.
 If you dont know what that is, how did you find this website?
 
 Anyway, i'm pressenting this to my class that I stil don't know until next week.
+**maybe...**
 
 OK, now is typing time.
 
