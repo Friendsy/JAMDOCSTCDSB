@@ -4,7 +4,7 @@ date: 2020-01-02
 slug: topics
 
 ---
-## TOPIC 1
+## Topic 1
 TOPIC 1
 **Monday, September 14 2020**
 
@@ -28,7 +28,7 @@ I think being respectful is another important act to be a Catholic Learner.
 Being respectful means to be polite, kind, and thoughtful.
 
 
-## TOPIC 2
+## Topic 2
 
 **Tuesday September 15 2020**
 
@@ -36,7 +36,7 @@ Brainstorm ideas for a social agreement that can be established at the beginning
 
 **THIS TOPIC IS YET TO BE COMPLETED AS OF 15/09/2020 AT 8:44 PM.**
 
-## TOPIC 3
+## Topic 3
 
 **Wednesday September 16 2020**
 
@@ -52,3 +52,8 @@ Your prayer should speak to what it means to be a Catholic learner who embraces 
 
 **ALSO NOT FINISHED.**
 
+## Topic 4
+
+Using the Show What You Know Student Choice Board share one critical aspect of yourself that you would like to celebrate and share with your teachers and peers. **You can create a short audio recording, video, collage or photo presentation. Be creative. Showcase your God given gifts and talents. **
+
+**i will be completeing the above bold text in a document. ( this website is the document. )
