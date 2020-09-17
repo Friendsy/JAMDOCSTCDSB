@@ -34,7 +34,7 @@ Being respectful means to be polite, kind, and thoughtful.
 
 Brainstorm ideas for a social agreement that can be established at the beginning of classes next week. The goal is to highlight key words and/or ideas that will guide what will be a positive online learning experience for you, your peers and your teacher. 
 
-**THIS TOPIC IS YET TO BE COMPLETED AS OF 15/09/2020 AT 8:44 PM.**
+
 
 ## Topic 3
 
