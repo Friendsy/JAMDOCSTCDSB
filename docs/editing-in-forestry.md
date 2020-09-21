@@ -34,6 +34,12 @@ Being respectful means to be polite, kind, and thoughtful.
 
 Brainstorm ideas for a social agreement that can be established at the beginning of classes next week. The goal is to highlight key words and/or ideas that will guide what will be a positive online learning experience for you, your peers and your teacher. 
 
+Here are some of my ideas,
+
+* **Be kind to each other**
+* **Stay positive** 
+* **Have faith and trust in each other and yourself**
+* **Be respectful to each other**
 
 
 ## Topic 3
@@ -49,11 +55,15 @@ The student prayers created will be celebrated together at the start of and end 
 
 Your prayer should speak to what it means to be a Catholic learner who embraces his/her potential while understanding the importance of being a culturally responsive learner and responsible citizen who gives witness to Catholic social teaching by promoting peace, justice and the sacredness of human life.
 
-
-**ALSO NOT FINISHED.**
+**
 
 ## Topic 4
 
 Using the Show What You Know Student Choice Board share one critical aspect of yourself that you would like to celebrate and share with your teachers and peers. **You can create a short audio recording, video, collage or photo presentation. Be creative. Showcase your God given gifts and talents. **
 
-**i will be completeing the above bold text in a document. ( this website is the document. )
+
+I assume this means one important part of me I want other people to know.
+
+I think that one important part of me is that I am (sometimes) creative
+
+
