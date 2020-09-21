@@ -55,7 +55,17 @@ The student prayers created will be celebrated together at the start of and end 
 
 Your prayer should speak to what it means to be a Catholic learner who embraces his/her potential while understanding the importance of being a culturally responsive learner and responsible citizen who gives witness to Catholic social teaching by promoting peace, justice and the sacredness of human life.
 
-**
+**God our Father,
+You are the Kings of Kings and you are our healer.
+
+**Thank you for all you have given me, and this year, I will try my best to embrace the potential you have given me, while still understanding importance of being a responsive learner and responsible citizen, and to give witness to Catholic social teaching by promoting peace, justice, and the sacredness of human life.**
+
+**I make this prayer to you, Christ our Lord.**
+
+**Amen**
+
+
+
 
 ## Topic 4
 
