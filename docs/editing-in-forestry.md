@@ -58,11 +58,20 @@ Your prayer should speak to what it means to be a Catholic learner who embraces 
 **God our Father,
 You are the Kings of Kings and you are our healer.
 
-**Thank you for all you have given me, and this year, I will try my best to embrace the potential you have given me, while still understanding importance of being a responsive learner and responsible citizen, and to give witness to Catholic social teaching by promoting peace, justice, and the sacredness of human life.**
+**Thank you for all you have given me, and this year, I will try my best to embrace the potential you have given me, while still understanding importance of being a responsive learner and responsible citizen, and to give witness to Catholic social teaching by promoting peace, justice, and the sacredness of human life.
+
+**I am thankful for this year, even if wasn't the most usual. **
+
 
 **I make this prayer to you, Christ our Lord.**
 
 **Amen**
+
+Using the Show What You Know Student Choice Board below, develop an original prayer that you would be willing to share with your teachers and peers. 
+The student prayers created will be celebrated together at the start of and end of classes beginning next week. 
+**Your prayer should speak to what it means to be a Catholic learner who embraces his/her potential while understanding the importance of being a culturally responsive learner and responsible citizen who gives witness to Catholic social teaching by promoting peace, justice and the sacredness of human life.**
+I used the above lines in my prayer.
+
 
 
 
