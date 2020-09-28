@@ -8,6 +8,8 @@ slug: information
 
 **If there are any grammar or language errors, please tell me.**
 
+
+
 I have created this website because the TCDSBVS Student Orientation Experience Daily Topics has this 'Show What You Know: Student Choice Board,' which has an option for **WEBSITE DESIGN,** and since I can make a "website," might as well make a website.
 
 **Why is the name cse.ddns.net?**
