@@ -4,6 +4,25 @@ date: 2020-01-02
 slug: topics
 
 ---
+## Prayer
+
+**In the Name of the Father and of the Son and of the Holy Spirit, Amen.**
+
+God our Father, you are our saviour, and our creator.
+Guide us to learn, and to listen, during this school year. May this year be of one of the best, even if it is not the most usual.
+Help us to ensure this year does not take us down. Instead, let this year enrich and strengthen all our aspects, mentally, physically, and most importantly, spiritually.
+May we learn to get accustomed to this type of learning, whether we are familiar with it, or not.
+
+We make this prayer to you, in the name of our Lord Jesus Christ,
+
+**Amen.**
+
+
+
+
+
+
+
 ## Topic 1
 TOPIC 1
 **Monday, September 14 2020**
